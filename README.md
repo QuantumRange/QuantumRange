@@ -1,4 +1,4 @@
-![HOLD UP! Theme Preference to Dark dimmed!](https://raw.githubusercontent.com/QuantumRange/QuantumRange/main/assets/HOLD%20UP.png)
+![HOLD UP! Theme Preference to Dark dimmed!](https://raw.githubusercontent.com/QuantumRange/QuantumRange/main/assets/HOLD%20ON.png)
 
 # Hello World! <br/>I am QuantumRange. <br/> A full-time hobby Java programmer.
 
