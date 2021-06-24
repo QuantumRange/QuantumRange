@@ -4,16 +4,19 @@
 I use [IntelliJ IDEA](https://www.jetbrains.com/de-de/idea/) for working with [Java](https://www.java.com/de/). *Lately I've been using maven more and more in my Java projects.*
 For C++ projects I use [CLion](https://www.jetbrains.com/de-de/clion/) with [MinGW](http://mingw-w64.org).
 <!-- If this goes nicer, I'm open to ideas :) -->
-<img align="center" src="https://raw.githubusercontent.com/QuantumRange/QuantumRange/main/assets/IntelliJ%20IDEA.png" alt="IntelliJ and CLion LOGOs"/>
+![IntelliJ and CLion LOGOs](https://raw.githubusercontent.com/QuantumRange/QuantumRange/main/assets/IntelliJ%20IDEA.png)
 
 ## Projects
-
+Projects | test
+---------|------
+Hello | LOL
+test|test
 
 ## Contact
 ![Discord Account: QuantumRange#0001](https://raw.githubusercontent.com/QuantumRange/QuantumRange/main/assets/Discord%20Link.png)
 
 ## Other
-**If you notice that the links are outdated, please write me a message on Discord.**<br/>
+**If you notice that the links are outdated, please send me a message on Discord.**<br/>
 My 73 repos (Currently: 06/24/2021 15:12) are not all on public.
 But I publish more and more new projects.
 
