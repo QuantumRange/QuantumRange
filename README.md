@@ -6,9 +6,7 @@ For C++ projects I use [CLion](https://www.jetbrains.com/de-de/clion/) with [Min
 <br/><br/><br/>
 
 <!-- If this goes nicer, I'm open to ideas :) -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/QuantumRange/QuantumRange/main/assets/IntelliJ%20IDEA.png" alt="IntelliJ and CLion LOGOs" width="70%"/>
-</p> 
+<img align="center" src="https://raw.githubusercontent.com/QuantumRange/QuantumRange/main/assets/IntelliJ%20IDEA.png" alt="IntelliJ and CLion LOGOs"/>
 
 ## Projects
 
