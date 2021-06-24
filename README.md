@@ -9,11 +9,7 @@ For C++ projects I use [CLion](https://www.jetbrains.com/de-de/clion/) with [Min
 ![IntelliJ and CLion LOGOs](https://raw.githubusercontent.com/QuantumRange/QuantumRange/main/assets/IntelliJ%20IDEA.png)
 
 ## Projects
-<!--
-Projects | test
----------|------
-Hello | LOL
-test|test-->
+![Discord Account: QuantumRange#0001](https://raw.githubusercontent.com/QuantumRange/QuantumRange/main/assets//Project%200.png)
 
 ## Contact
 ![Discord Account: QuantumRange#0001](https://raw.githubusercontent.com/QuantumRange/QuantumRange/main/assets/Discord%20Link.png)
