@@ -1,7 +1,7 @@
 # Hello World! <br/>I am QuantumRange. <br/> A full-time hobby Java programmer.
 
 ## Contact
-
+![Discord Account: QuantumRange#0001](https://raw.githubusercontent.com/QuantumRange/QuantumRange/main/assets/Discord%20Link.png)
 
 ## Other
 My 73 repos (Currently: 06/24/2021 15:12) are not all on public.
