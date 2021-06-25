@@ -18,4 +18,5 @@ For C++ projects I use [CLion](https://www.jetbrains.com/de-de/clion/) with [Min
 **If you notice that the links are outdated, please send me a message on Discord.**<br/>
 My 73 repos (Currently: 06/24/2021 15:12) are not all on public.
 But I publish more and more new projects.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuantumRange&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![QuantumRange's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuantumRange&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![QuantumRange's GitHUb stats](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumRange&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=16&theme=nord&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
