@@ -1,4 +1,4 @@
-# Hello World! <br/>I am QuantumRange. <br/> A full-time hobby Java programmer.
+# Hello World! <br/>I am QuantumRange. <br/> A hobby Java programmer.
 
 ## About Me
 I use [IntelliJ IDEA](https://www.jetbrains.com/de-de/idea/) for working with [Java](https://www.java.com/de/). *Lately I've been using maven more and more in my Java projects.*
