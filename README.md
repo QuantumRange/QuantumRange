@@ -4,7 +4,7 @@
 I use [IntelliJ IDEA](https://www.jetbrains.com/de-de/idea/) for working with [Java](https://www.java.com/de/). *Lately I've been using maven more and more in my Java projects.*
 For C++ projects I use [CLion](https://www.jetbrains.com/de-de/clion/) with [MinGW](http://mingw-w64.org).
 
-<!--![IntelliJ and CLion LOGOs](https://raw.githubusercontent.com/QuantumRange/QuantumRange/main/assets/IntelliJ%20IDEA.png)-->
+![IntelliJ and CLion LOGOs](https://raw.githubusercontent.com/QuantumRange/QuantumRange/main/assets/IntelliJ%20IDEA.png)
 
 <!--## Projects
 ![Discord Account: QuantumRange#0001](https://raw.githubusercontent.com/QuantumRange/QuantumRange/main/assets//Project%200.png)-->
