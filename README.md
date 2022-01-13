@@ -10,7 +10,8 @@ For C++ projects I use [CLion](https://www.jetbrains.com/de-de/clion/) with [Min
 ![Discord Account: QuantumRange#0001](https://raw.githubusercontent.com/QuantumRange/QuantumRange/main/assets//Project%200.png)-->
 
 ## Contact
-![Discord Account: QuantumRange#0001](https://raw.githubusercontent.com/QuantumRange/QuantumRange/main/assets/Discord%20Link.png)
+<!-- ![Discord Account: QuantumRange#0001](https://raw.githubusercontent.com/QuantumRange/QuantumRange/main/assets/Discord%20Link.png) -->
+QuantumRange#0354
 
 ## Other
 **If you notice that the links are outdated, please send me a message on Discord.**<br/>
