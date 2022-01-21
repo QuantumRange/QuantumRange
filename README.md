@@ -19,3 +19,5 @@ My ~82 repos (Currently: 09/26/2021 15:12) are not all on public.
 But I publish more and more new projects.
 [![QuantumRange's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuantumRange&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 [![QuantumRange's GitHUb stats](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumRange&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=16&theme=nord&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![User Count](http://hits.dwyl.com/{username}/{repo}.svg?style={style}&show=unique)](http://hits.dwyl.com/{username}/{repo})
