@@ -17,7 +17,27 @@ Discord: QuantumRange#0354
 **If you notice that the links are outdated, please send me a message on Discord.**<br/>
 My ~122 repos (Currently: 01/21/2022 14:13) are not all on public.
 But I publish more and more new projects.
-[![QuantumRange's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuantumRange&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-[![QuantumRange's GitHUb stats](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumRange&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=16&theme=nord&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
- [![HitCount](http://hits.dwyl.com/QuantumRange/QuantumRange.svg?style=flat)](http://hits.dwyl.com/QuantumRange/QuantumRange)
+<br>
+<p align=center>
+  <div align=center>
+    <a title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumRange&theme=react&border=61dafb&hide_border=true" alt="QuantumRange" />
+    </a>
+    <a>
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=QuantumRange&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br>
+  <div align=center>
+    <a>
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumRange&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  <br>
+  <br>
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=QuantumRange&theme=monokai"/>
+  </div>
+  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=QuantumRange&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
+  
+[![HitCount](http://hits.dwyl.com/QuantumRange/QuantumRange.svg?style=flat)](http://hits.dwyl.com/QuantumRange/QuantumRange)
