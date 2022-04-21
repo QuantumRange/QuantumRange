@@ -31,7 +31,7 @@ But I publish more and more new projects.
   <br><br><br><br><br><br><br>
   <div align=center>
     <a>
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumRange&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumRange&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=20&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   <br>
   <br>
