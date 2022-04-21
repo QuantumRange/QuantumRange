@@ -1,5 +1,7 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 
+[![HitCount](http://hits.dwyl.com/QuantumRange/QuantumRange.svg?style=flat)](http://hits.dwyl.com/QuantumRange/QuantumRange)
+
 ## About Me
 I use [IntelliJ IDEA](https://www.jetbrains.com/de-de/idea/) for working with [Java](https://www.java.com/de/). *Lately I've been using maven more and more in my Java projects.*
 For C++ projects I use [CLion](https://www.jetbrains.com/de-de/clion/) with [MinGW](http://mingw-w64.org).
@@ -39,5 +41,3 @@ But I publish more and more new projects.
   </div>
   
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=QuantumRange&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
-  
-[![HitCount](http://hits.dwyl.com/QuantumRange/QuantumRange.svg?style=flat)](http://hits.dwyl.com/QuantumRange/QuantumRange)
