@@ -6,13 +6,10 @@
 I use [IntelliJ IDEA](https://www.jetbrains.com/de-de/idea/) for working with [Java](https://www.java.com/de/).
 For C++ projects I use [CLion](https://www.jetbrains.com/de-de/clion/) with [MinGW](http://mingw-w64.org).
 
-![IntelliJ and CLion LOGOs](https://raw.githubusercontent.com/QuantumRange/QuantumRange/main/assets/IntelliJ%20IDEA.png)
 
-<!--## Projects
-![Discord Account: QuantumRange#0001](https://raw.githubusercontent.com/QuantumRange/QuantumRange/main/assets//Project%200.png)-->
+<!-- ![IntelliJ and CLion LOGOs](https://raw.githubusercontent.com/QuantumRange/QuantumRange/main/assets/IntelliJ%20IDEA.png) -->
 
 ## Contact
-<!-- ![Discord Account: QuantumRange#0001](https://raw.githubusercontent.com/QuantumRange/QuantumRange/main/assets/Discord%20Link.png) -->
 Discord: QuantumRange#0354
 
 ## Other
@@ -20,6 +17,7 @@ Discord: QuantumRange#0354
 My 139 repos (Currently: 05/15/2022 16:19 *(15.05.22)* ) are not all on public.
 But I publish more and more new projects.
 
+<!--
 <br>
 <p align=center>
   <div align=center>
@@ -41,3 +39,4 @@ But I publish more and more new projects.
   </div>
   
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=QuantumRange&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
+-->
