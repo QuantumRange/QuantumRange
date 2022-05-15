@@ -3,7 +3,7 @@
 [![HitCount](http://hits.dwyl.com/QuantumRange/QuantumRange.svg?style=flat)](http://hits.dwyl.com/QuantumRange/QuantumRange)
 
 ## About Me
-I use [IntelliJ IDEA](https://www.jetbrains.com/de-de/idea/) for working with [Java](https://www.java.com/de/). *Lately I've been using maven more and more in my Java projects.*
+I use [IntelliJ IDEA](https://www.jetbrains.com/de-de/idea/) for working with [Java](https://www.java.com/de/).
 For C++ projects I use [CLion](https://www.jetbrains.com/de-de/clion/) with [MinGW](http://mingw-w64.org).
 
 ![IntelliJ and CLion LOGOs](https://raw.githubusercontent.com/QuantumRange/QuantumRange/main/assets/IntelliJ%20IDEA.png)
@@ -17,7 +17,7 @@ Discord: QuantumRange#0354
 
 ## Other
 **If you notice that the links are outdated, please send me a message on Discord.**<br/>
-My ~133 repos (Currently: 04/09/2022 16:19 *(09.04.22)* ) are not all on public.
+My 139 repos (Currently: 05/15/2022 16:19 *(15.05.22)* ) are not all on public.
 But I publish more and more new projects.
 
 <br>
