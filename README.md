@@ -41,6 +41,6 @@ int main() {
 ```
 
 
-I use [IntelliJ IDEA](https://www.jetbrains.com/de-de/idea/) for working with [Java](https://www.java.com/de/).
+I use [IntelliJ IDEA](https://www.jetbrains.com/de-de/idea/) to work with [Java](https://www.java.com/de/).
 For C++ projects I use [CLion](https://www.jetbrains.com/de-de/clion/) with [MinGW](http://mingw-w64.org).
-Discord: QuantumRange#0354
+You can contact me on Discord: QuantumRange#0354.
