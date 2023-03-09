@@ -46,3 +46,5 @@ For C++ projects I use [CLion](https://www.jetbrains.com/de-de/clion/) with [Min
 You can contact me on Discord: QuantumRange#0354.
 
 ![QuantumRange's github stats](https://github-readme-stats.vercel.app/api?username=QuantumRange&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumRange&langs_count=8)
