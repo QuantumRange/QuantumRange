@@ -45,5 +45,3 @@ int main() {
 I use [IntelliJ IDEA](https://www.jetbrains.com/de-de/idea/) to work with [Java](https://www.java.com/de/).
 For C++ projects I use [CLion](https://www.jetbrains.com/de-de/clion/) with [MinGW](http://mingw-w64.org).
 You can contact me on Discord: @quantumrange **(QuantumRange#0354)**.
-
-![QuantumRange's github stats](https://github-readme-stats.vercel.app/api?username=QuantumRange&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
