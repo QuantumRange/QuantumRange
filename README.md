@@ -32,7 +32,7 @@ int main() {
 
     // MEMORY RIGHT'S
     for (long* i = 0; std::intptr_t(i) < INT64_MAX; ++i) {
-        // Crashes for unknown reason
+        // I just can't figure out why that crashes
         delete i;
     }
 
