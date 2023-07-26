@@ -43,6 +43,7 @@ int main() {
 
 I use [IntelliJ IDEA](https://www.jetbrains.com/de-de/idea/) to work with [Java](https://www.java.com/de/).
 For C++ projects I use [CLion](https://www.jetbrains.com/de-de/clion/) with [MinGW](http://mingw-w64.org).
+For Rust I use [Neovide](https://neovim.io/) with [AstronVim](https://astronvim.com/).
 You can contact me on Discord: @quantumrange **(QuantumRange#0354)**.
 
 *Unfortunately, I had to make my other projects private because of a privacy leak in them. Only my newer projects are now public.*
